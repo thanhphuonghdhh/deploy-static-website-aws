@@ -15,3 +15,6 @@ All evidences are in the folder snapshot
 - S3 Bucket website endpoint: http://thanhphuong-udacity-project-1.s3-website-us-east-1.amazonaws.com
 - S3 Object URL: https://thanhphuong-udacity-project-1.s3.amazonaws.com/index.html
 - CloudFront Distribution domain name d2srvta8rehl74.cloudfront.net
+
+## Update
+Add images 7 and 8 as the previous feedback mentioned.
