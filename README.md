@@ -17,4 +17,4 @@ All evidences are in the folder snapshot
 - CloudFront Distribution domain name d2srvta8rehl74.cloudfront.net
 
 ## Update
-Add images 7 and 8 as the previous feedback mentioned.
+Add images 6 and 7 as the previous feedback mentioned.
